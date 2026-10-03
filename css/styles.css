@@ -1,0 +1,13 @@
+.pokemon-img {
+  width: 90px;
+  height: 90px;
+  object-fit: contain;
+}
+
+.card {
+  transition: border-color 0.2s ease;
+}
+
+.card:hover {
+  border-color: #000 !important;
+}
